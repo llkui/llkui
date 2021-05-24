@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img align="right" src="https://hits.b3log.org/llkui/llkui.svg" />
   
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=llkui&show_icons=true)
